@@ -1,0 +1,16 @@
+[book]
+authors = ["JordiMateoUdL"]
+language = "ca"
+multilingual = false
+src = "src"
+title = "Laboratoris d'Administració i Manteniment de Sistemes i Aplicacions"
+
+[output.html.code.hidelines]
+bash = "~"
+
+[output.html]
+mathjax-support = true
+git-repository-url = "https://github.com/AMSA-2425-GEI-UDL/laboratoris"
+git-repository-icon = "fa-github"
+
+
