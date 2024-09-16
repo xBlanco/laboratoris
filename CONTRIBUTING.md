@@ -1,9 +1,6 @@
 # Contribueix
 
-Aquest material és de codi obert i podeu col·laborar-hi, complementar-lo o corregir-lo mitjançant **pull requests** al repositori. L'objectiu és estendre'n la seva funcionalitat i millorar-ne l'explicació. La vostra contribució és fonamental per fer-lo més complet i útil per a tots els usuaris interessats.
-
-L'enllaç al repositori és:
-[https://github.com/AMSA-2425-GEI-UDL/laboratoris](https://github.com/AMSA-2425-GEI-UDL/laboratoris)
+Aquest material és de codi obert i podeu col·laborar-hi, complementar-lo o corregir-lo mitjançant **pull requests** al repositori. 
 
 ## Instruccions per contribuïr
 
