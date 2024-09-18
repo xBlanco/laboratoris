@@ -13,6 +13,7 @@ Aquest llibre conté el recull de pràctiques ha realitzar a l'assignatura d'Adm
 ## Continguts
 
 1. [Instal·lació i Configuració de Màquines Virtuals](./Install/main.md).
+2. [Scripting](./Scripts/main.md).
 
 ## Utilització
 
