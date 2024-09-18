@@ -7,7 +7,7 @@ En aquest laboratori, instal·larem el sistema operatiu Debian 12 en una màquin
 
 ## Configuració de la màquina virtual amb VMWare
 
-1. Selecciona l’opció `Create a New Virtual Machine` a VMWare Workstation Player o VMWare Fusion.
+1. Selecciona l’opció `Create a New Virtual Machine` a VMWare Workstation o VMWare Fusion.
 2. Selecciona *Install from disc or image*.
     ![Install from disc or image](./figures/debian12/install-01.png)
 3. Selecciona la imatge ISO de Debian 12.
