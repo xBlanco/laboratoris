@@ -24,14 +24,14 @@ En aquesta secció, personalitzarem la initramfs afegint un missatge personalitz
 3. **Crea un nou fitxer de script amb un missatge personalitzat**:
 
     ```bash
-    echo 'echo "Hola, Initramfs!"' > scripts/init-top/custom_message.sh
-    chmod +x scripts/init-top/custom_message.sh
+    echo 'echo "Hola, Initramfs!"' > main/scripts/init-top/custom_message.sh
+    chmod +x main/scripts/init-top/custom_message.sh
     ```
 
 4. **Actualitza el manifest de la initramfs**:
 
     ```bash
-    echo 'scripts/init-top/custom_message.sh' >> scripts/init-top/order
+    echo 'main/scripts/init-top/custom_message.sh' >> main/scripts/init-top/order
     ```
 
     Això afegeix el nou script al manifest de la initramfs, assegurant-se que s'executi durant el procés d'inici.
